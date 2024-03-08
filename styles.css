@@ -10,6 +10,7 @@ body {
     transform: translateY(-50%);
     width: 100%;
     text-align: left;
+    padding-left: 175;
   }
   
   .eyes1 {
@@ -17,7 +18,8 @@ body {
     top: 50%;
     transform: translateY(-50%);
     width: 100%;
-    text-align: right;
+    text-align: center;
+    padding-left: 275;
   }
   .eye {
     width: 240px;
