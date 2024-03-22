@@ -1,1 +1,1 @@
-# eyeproject.io
+My task for eye projects was to add a second “eye” element and have that element follow the mouse position on the screen using the mouse events.  I updated the position of the first eye and added the second.  The eyes will follow the mouse as it moves on the screen.  In the future I would like to tweak the size and color of the eyes as well as the background.  This project was completed through MIT xPro full stack development with MERN professional certificate in coding.
